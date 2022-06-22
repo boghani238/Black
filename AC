@@ -1,10 +1,10 @@
 {
   "data": [
 {    
-      "admob_appopen":"ca-app-pub-3940256099942544/3419835294",
-      "admob_interstitial":"ca-app-pub-3940256099942544/1033173712",
-      "admob_native":"ca-app-pub-3940256099942544/2247696110",
-      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_appopen":"ca-app-pub-1388096923493094/1686119553",
+      "admob_interstitial":"ca-app-pub-1388096923493094/1793930761",
+      "admob_native":"ca-app-pub-1388096923493094/4312282890",
+      "admob_banner":"ca-app-pub-1388096923493094/4420094108",
       "ispurchaseItem":"1"
 }
 ]
